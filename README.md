@@ -1,2 +1,2 @@
 # hello-world
-Getting started on GitHub
+I am a university student working on a survey experiment and just getting started on GitHub
